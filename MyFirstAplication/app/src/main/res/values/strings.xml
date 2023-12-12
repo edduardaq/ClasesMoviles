@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFirstAplication</string>
+    <!--Login labels-->
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contra">Contraseña</string>
+    <string name="btn_autenticar">Validar usuario</string>
+    <string name="val_usuario">El usuario es requerido</string>
+    <string name="val_contra">La contraseña es requerida</string>
+    <string name="msg_fin">Esperando hacer algo</string>
+</resources>

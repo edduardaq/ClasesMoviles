@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">MyFirstAppp</string>
+    <!--Login labels-->
+    <string name="lbl_usuario">User</string>
+    <string name="lbl_contra">Password</string>
+    <string name="btn_autenticar">User validate</string>
+    <string name="val_usuario">The user is required</string>
+    <string name="val_contra">The password is required</string>
+    <string name="msg_fin">Await something todo</string>
+
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">MyFirstAppp</string>
+    <!--Login labels-->
+    <string name="lbl_usuario">Usuario</string>
+    <string name="lbl_contra">Contraseña</string>
+    <string name="btn_autenticar">Validar usuario</string>
+    <string name="val_usuario">El usuario es requerido</string>
+    <string name="val_contra">La contraseña es requerida</string>
+    <string name="msg_fin">Esperando hacer algo</string>
+    <!--La otra ventana labels-->
+    <string name="lbl_planeta">Planeta</string>
+    <string-array name="planets_array">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+        <item>Saturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+    </string-array>
+</resources>
+
